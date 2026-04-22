@@ -1,5 +1,7 @@
 # Bug: `setPageLayout` type rejects arrays of objects despite being JSON-serializable
 
+StackBlitz: https://stackblitz.com/github/mew-ton/__nuxt-setpagelayout-rejects-object-arrays-repro
+
 ## Summary
 
 `setPageLayout(name, props)` (introduced in #33805) is the natural way to pass

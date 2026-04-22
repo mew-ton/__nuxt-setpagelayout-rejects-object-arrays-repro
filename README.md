@@ -1,5 +1,6 @@
 # Bug: `setPageLayout` type rejects arrays of objects despite being JSON-serializable
 
+Issue: https://github.com/nuxt/nuxt/issues/34847
 StackBlitz: https://stackblitz.com/github/mew-ton/__nuxt-setpagelayout-rejects-object-arrays-repro
 
 ## Summary

@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-setpagelayout-rejects-object-arrays-repro",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "type-check": "nuxt typecheck"
+  },
+  "devDependencies": {
+    "nuxt": "latest",
+    "vue": "latest",
+    "typescript": "latest",
+    "vue-tsc": "latest"
+  }
+}
